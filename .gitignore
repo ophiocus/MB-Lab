@@ -9,3 +9,4 @@ __pycache__
 Runblender.bat.lnk
 .idea/inspectionProfiles/Project_Default.xml
 /mb-lab_updater/MB-Lab_updater_status.json
+/mb_lab_updater/MB_Lab_updater_status.json
